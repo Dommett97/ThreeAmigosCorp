@@ -1,0 +1,18 @@
+{
+  "name": "threeamigoscorp",
+  "version": "1.0.0",
+  "description": "Three Amigos Store App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dommett97/ThreeAmigosCorp.git"
+  },
+  "author": "Callum Dommett",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
